@@ -1,3 +1,5 @@
+Для просмотра интерактивных графиков необходимо открыть блокнот через **nbviewer** по [данной ссылке](https://nbviewer.org/github/AndreyShalatonov/ab_test_online_shop/blob/ee66f5e3db02faa479e28b91f9492bff3fbc781d/ab_test_analysis.ipynb).
+
 # Анализ результатов А/В теста
 **Объект:** интернет-магазин (unknown)
 
